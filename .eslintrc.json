@@ -25,6 +25,7 @@
         "camelcase": "off",
         "import/no-unresolved": "error",
         "comma-dangle": ["error", "only-multiline"],
+        "arrow-body-style": "off",
         "@typescript-eslint/naming-convention": [
             "error",
             {
